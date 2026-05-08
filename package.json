@@ -1,9 +1,0 @@
-{
-  "name": "stir-trade-planner",
-  "version": "1.0.0",
-  "description": "STIR Futures Trade Planner — chart analysis + risk-equalized entry ladder",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  }
-}
